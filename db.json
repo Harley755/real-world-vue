@@ -9,7 +9,7 @@
     "date": "January 28, 2022",
     "time": "12:00",
     "petsAllowed": true,
-    "organized": "Kat Laydee",
+    "organized": "Kat Laydee"
    },
    {
     "id": 4582797,
@@ -20,7 +20,7 @@
     "date": "March 14, 2022",
     "time": "10:00",
     "petsAllowed": true,
-    "organized": "Fern Pollin",
+    "organized": "Fern Pollin"
    },
    {
     "id": 8419988,
@@ -31,7 +31,7 @@
     "date": "July 22, 2022",
     "time": "11:00",
     "petsAllowed": false,
-    "organized": "Carey Wales",
+    "organized": "Carey Wales"
    },
  ] 
 }
